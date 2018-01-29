@@ -1,7 +1,7 @@
 import React from 'react';
 import PersonalRight from '../personal-right/index';
 import './index.css';
-const msg = ['大神申请','大神主页','接单记录','下单记录','充值','提现','明细','个人资料','安全设置','我的消息','我的评价'];
+const msg = ['','大神申请','大神主页','接单记录','下单记录','充值','提现','明细','个人资料','安全设置','我的消息','我的评价'];
 
 export default class PersonNav extends React.Component{
     constructor(){

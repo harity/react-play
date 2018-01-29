@@ -1,7 +1,8 @@
 import React from 'react';
-import PersonalRightWelcome from '../personal-right-welcome/index'
+import PersonalRightWelcome from '../personal-right-welcome/index';
+import PersonalApply from '../personal-manito-apply/index'
 
-const arr = [<PersonalRightWelcome/>];
+const arr = [<PersonalRightWelcome/>,<PersonalApply/>];
 export default class PersonalRight extends React.Component{
 	
 	constructor(props){
