@@ -189,7 +189,7 @@ export default class ApplyRecreation extends React.Component{
 		                <span>我已阅读并同意<a class="hover" href="#">服务条款</a></span>
 		            </div>
 		            <div class="recreation_cont">
-		                <button class="recreation_btn">提交审核</button>
+		                <button class="recreation_check_btn">提交审核</button>
 		            </div>
 		        </div>
 		        <div class="manito_recreation_step display">
